@@ -1,0 +1,23 @@
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+.vs/
+
+# Node / Vue
+**/node_modules/
+**/dist/
+*.local
+
+# Local credentials and deployment output
+appsettings.Local.json
+publish/
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

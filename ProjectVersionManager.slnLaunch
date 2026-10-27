@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "API 调试",
+    "Projects": [
+      {
+        "Path": "src\\ProjectVersionManager.Api\\ProjectVersionManager.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
